@@ -1,11 +1,6 @@
 <!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,50:00ffff,100:003366&height=250&section=header&text=IRFAN&fontSize=90&fontColor=00ffff&fontAlignY=38&stroke=00ff00&strokeWidth=2&desc=⚡%20Full%20Stack%20Developer%20%7C%20Code%20Craftsman%20%7C%20Digital%20Architect%20⚡&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- Animated Neon Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Irfan&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Matrix Typing Animation -->
@@ -67,42 +62,24 @@ me.say_hi()
 ---
 
 <!-- Stats Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/>
-  &nbsp; GitHub Stats & Activity &nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/>
-</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<!-- Animated cyber divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00ffff&icon_color=00ff00&text_color=00ccff&ring_color=00ff00" height="185" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00ffff&text_color=00ccff" height="185" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00ffff&fire=00ff00&currStreakLabel=00ffff&sideLabels=00ccff&dates=007799&sideNums=00ff00&currStreakNum=00ffff" width="700" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<!-- Animated GIF before graph -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=00ffff&line=00ff00&point=00ffff&area=true&area_color=003333" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -141,21 +118,8 @@ me.say_hi()
 
 <!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" alt="trophy gif"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies Row 1"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=4&rank=B,C,SECRET" width="60%" alt="Trophies Row 2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
 </div>
 
 ---
@@ -208,32 +172,20 @@ me.say_hi()
 
 <br/>
 
-<!-- Animated Quote Section -->
+<!-- Fun Quote -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20spoon.%20Only%20code.&author=The%20Matrix" alt="Quote"/>
 </div>
 
 <br/>
 
+<!-- Matrix Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=%22The+Matrix+is+everywhere.+It+is+all+around+us.%22;%22You+take+the+blue+pill%2C+the+story+ends...%22;%22You+take+the+red+pill%2C+you+stay+in+Wonderland%22;%22I+know+kung+fu.+Show+me.%22;%22There+is+no+spoon.+Only+code.%22" alt="Matrix Quotes"/>
-</div>
-
-<br/>
-
-<!-- Animated cyber footer GIF -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<!-- Epic Matrix Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:003366,50:00ffff,100:00ff00&height=150&section=footer&text=Let's%20Build%20The%20Future!&fontSize=35&fontColor=00ffff&fontAlignY=65&stroke=00ff00&strokeWidth=1&animation=fadeIn&desc=⚡%20Always%20Coding%20%7C%20Always%20Learning%20%7C%20Always%20Building%20⚡&descSize=14&descAlignY=85" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=00ff00&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Matrix Easter Egg -->
 <!--
 01000111 01101111 01101111 01100100 00100000 01001010 01101111 01100010 00100001
 You decoded the binary. You're ready for the Matrix. 🟢
-💠 And you found the cyan secret too. Impressive. 💠
 -->
