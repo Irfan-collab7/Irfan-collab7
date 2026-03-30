@@ -1,89 +1,152 @@
 <div align="center">
 
-# 👋 Hey there, I'm Irfan
+# 👨‍💻 Shaik Irfan
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;Future+Cloud+Engineer;Learning+Open+Source;Building+Cool+Projects;Always+Learning+🚀" />
-</p>
+### 🚀 Cloud Computing & Automation Student | VIT Bhopal
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Future+Cloud+Engineer;Open+Source+Learner;Building+Projects;Exploring+AI+%26+Cloud;Always+Learning+🚀" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🌌 Hacker Mode
 
-```python
-class Irfan:
-    def __init__(self):
-        self.username = "Irfan-collab7"
-        self.location = "India"
-        self.education = "VIT Bhopal"
-        self.role = "Cloud Computing Student"
-        self.interests = ["Cloud", "Open Source", "Programming"]
-        self.learning = ["Java", "JavaScript", "DSA"]
+<p align="center">
 
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-me = Irfan()
-me.say_hi()
-🛠 Tech Stack
-Languages
-<p> <img src="https://skillicons.dev/icons?i=java,js,html,css,python" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=tokyonight"/> </p>
-🔥 Streak Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=tokyonight"/> </p>
-📈 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=tokyonight"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=tokyonight"/> </p>
-🐍 Contribution Snake
-<picture> <img src="https://raw.githubusercontent.com/Irfan-collab7/Irfan-collab7/output/github-contribution-grid-snake.svg"> </picture>
-📫 Connect With Me
-<p align="center"> <a href="https://github.com/Irfan-collab7"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </a> </p>
+</p>
 
 ---
 
-# Step 3 — Your Profile Will Show
+# 🧠 AI Style Developer Profile
 
-Your GitHub profile will now have:
-
-✔ animated intro  
-✔ typing text animation  
-✔ tech stack icons  
-✔ GitHub stats charts  
-✔ contribution graph  
-✔ trophies  
-✔ snake animation  
-
-Basically **like a professional developer profile**.
+| Attribute | Details |
+|----------|---------|
+| Name | Shaik Irfan |
+| University | VIT Bhopal |
+| Degree | BTech Cloud Computing & Automation |
+| Interests | Cloud Computing • Open Source • Programming |
+| Currently Learning | Java • JavaScript • DSA |
+| Goal | Become a Cloud Engineer |
 
 ---
 
-# Important Tip (Most Students Miss This)
+# 🛠 Tech Stack
 
-Your profile will look **empty unless you commit often**.
+### Languages
 
-Try to:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
+</p>
 
-- push code **every day**
-- keep **green contribution squares**
+### Tools
 
-This makes the charts look powerful.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
 
 ---
 
-💡 Since you're a **VIT Bhopal Cloud Computing student**, I can also show you something even cooler:
+# 📊 GitHub Stats
 
-- **3D GitHub contribution graph**
-- **animated coding GIF background**
-- **developer badges**
-- **Spotify / coding music widget**
-- **AI-style profile like top GitHub engineers**
+<p align="center">
 
-If you want, I can build you a **🔥 top-tier GitHub profile (better than the one you showed)**.
+<img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=tokyonight&no-frame=true&margin-w=5"/>
+
+</p>
+
+---
+
+# 📦 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Irfan-collab7">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Irfan-collab7&repo=repo1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Irfan-collab7">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Irfan-collab7&repo=repo2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+
+<img src="https://raw.githubusercontent.com/Irfan-collab7/Irfan-collab7/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+---
+
+# ☕ Coding Fuel
+
+<p align="center">
+
+☕ Coffee + 💻 Code + 🚀 Innovation
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Irfan-collab7">
+
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ From **Shaik Irfan**
+
+</p>
