@@ -1,152 +1,191 @@
+<!-- Matrix Rain Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Irfan&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+</div>
 
-# 👨‍💻 Shaik Irfan
+<!-- Matrix Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+Cool+Stuff+Daily;%F0%9F%9A%80+Open+Source+Enthusiast;%E2%9C%A8+Turning+Coffee+into+Code" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🚀 Cloud Computing & Automation Student | VIT Bhopal
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Future+Cloud+Engineer;Open+Source+Learner;Building+Projects;Exploring+AI+%26+Cloud;Always+Learning+🚀" />
-
+<!-- Matrix Animation GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
 ---
 
-# 🌌 Hacker Mode
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  &nbsp;About Me &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<p align="center">
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```python
+class Irfan:
+    def __init__(self):
+        self.name       = "Irfan"
+        self.username   = "Irfan-collab7"
+        self.location   = "India 🇮🇳"
+        self.role       = "Full Stack Developer"
+        self.languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
+        self.frameworks = ["React", "Node.js", "Django", "Express"]
+        self.databases  = ["MongoDB", "MySQL", "PostgreSQL"]
+        self.tools      = ["Git", "Docker", "VS Code", "Postman"]
+        self.hobbies    = ["Coding", "Open Source", "Problem Solving", "Gaming"]
 
-</p>
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
----
+me = Irfan()
+me.say_hi()
+```
 
-# 🧠 AI Style Developer Profile
-
-| Attribute | Details |
-|----------|---------|
-| Name | Shaik Irfan |
-| University | VIT Bhopal |
-| Degree | BTech Cloud Computing & Automation |
-| Interests | Cloud Computing • Open Source • Programming |
-| Currently Learning | Java • JavaScript • DSA |
-| Goal | Become a Cloud Engineer |
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
+<br clear="right"/>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=tokyonight&hide_border=true"/>
-
-</p>
+<!-- Matrix Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ---
 
-# 📈 Most Used Languages
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
+</div>
 
----
+<br/>
 
-# 🔥 3D Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=tokyonight&no-frame=true&margin-w=5"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
+</div>
 
 ---
 
-# 📦 Featured Projects
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<p align="center">
+<h3 align="center">💻 Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java&theme=dark" />
+</div>
 
-<a href="https://github.com/Irfan-collab7">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Irfan-collab7&repo=repo1&theme=tokyonight&hide_border=true"/>
-</a>
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap&theme=dark" />
+</div>
 
-<a href="https://github.com/Irfan-collab7">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Irfan-collab7&repo=repo2&theme=tokyonight&hide_border=true"/>
-</a>
+<h3 align="center">🗄️ Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=dark" />
+</div>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<img src="https://raw.githubusercontent.com/Irfan-collab7/Irfan-collab7/output/github-contribution-grid-snake.svg">
-
-</picture>
-
----
-
-# ☕ Coding Fuel
-
-<p align="center">
-
-☕ Coffee + 💻 Code + 🚀 Innovation
-
-</p>
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws,figma&theme=dark" />
+</div>
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Irfan-collab7">
-
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
+<!-- Matrix Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ---
 
-<p align="center">
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
+</div>
 
-⭐ From **Shaik Irfan**
+---
 
-</p>
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://github.com/Irfan-collab7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff00" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff00" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+<!-- Visitor Counter & Fun Facts -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Irfan-collab7&style=for-the-badge&color=00ff00&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Irfan-collab7?style=for-the-badge&color=00ff00&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
+</div>
+
+<br/>
+
+<!-- Fun Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20spoon.%20Only%20code.&author=The%20Matrix" alt="Quote"/>
+</div>
+
+<br/>
+
+<!-- Matrix Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=00ff00&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Matrix Easter Egg -->
+<!--
+01000111 01101111 01101111 01100100 00100000 01001010 01101111 01100010 00100001
+You decoded the binary. You're ready for the Matrix. 🟢
+-->
